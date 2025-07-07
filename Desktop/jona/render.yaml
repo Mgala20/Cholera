@@ -1,0 +1,1 @@
+services:  - type: web    name: xgboost-api    env: python    buildCommand: ""    startCommand: "python app.py"
